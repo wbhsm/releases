@@ -101,3 +101,4 @@ To reconcile these two different use-cases, React Native’s release process is 
 [dx]: https://medium.com/@albertcavalcante/what-is-dx-developer-experience-401a0e44a9d9
 [patch release]: https://semver.org/spec/v2.0.0.html#spec-item-6
 [minor version]: https://semver.org/spec/v2.0.0.html#spec-item-7
+## 1
